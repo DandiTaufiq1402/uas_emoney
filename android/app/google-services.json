@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248929538524",
+    "project_id": "e-money-ef278",
+    "storage_bucket": "e-money-ef278.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248929538524:android:6e5715021f3c4967bb7f19",
+        "android_client_info": {
+          "package_name": "com.example.dompet_kampus_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKA7Mzjr2YQdcczFEi_kMo9mfi5AVpl7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
